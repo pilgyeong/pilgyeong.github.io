@@ -4,7 +4,7 @@ main:
     url: https://pilgyeong.github.io/
   - title: "About"
     url: https://github.com/pilgyeong
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
