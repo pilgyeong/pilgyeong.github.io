@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Pilgyeong Gong"
-  avatar           : "https://pilgyeong.github.io/_images/profile.jpeg"
+  avatar           : "assets/images/profile.jpeg"
   bio              : "데이터 개발 공부기록"
   location         : "Seoul, Republic of Korea"
   email            :
