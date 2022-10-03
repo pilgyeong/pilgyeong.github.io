@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Pilgyeong Gong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile_img.jpeg"
   bio              : "데이터 개발 공부기록"
   location         : "Seoul, Republic of Korea"
   email            :
